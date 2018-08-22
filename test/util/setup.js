@@ -12,6 +12,7 @@ global.chai = chai;
 global.expect = chai.expect;
 global.sinon = sinon;
 
+
 // Use sinonChai
 chai.use(sinonChai);
 chai.use(chaiHttp);
